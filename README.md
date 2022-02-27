@@ -1,4 +1,18 @@
 # YoutubeAPIDataAnalysis
 
-This is a complete Data analysis project in Python from fetching data from Youtube API of a channel, working on data, performaing various analysis on data with views, likes count, categories, duration. Calculating percentages and plotting the charts on the data.  
-Modules Used: Pandas, Matplotlib, requests, isodate, wordcloud
+Complete Data analysis project in Python demonstrating all the steps involve in data analysis; Data fetching from Youtube API of a free code camp channel, working on data, organazing data to perform various analysis
+
+Analysis has been perforemd on the basis of:
+  - Total views
+  - Likes count
+  - Categories
+  - Videos duration
+  - Plotting the charts on the data
+
+
+Modules Used: 
+  - Pandas
+  - Matplotlib
+  - requests
+  - wordcloud
+
